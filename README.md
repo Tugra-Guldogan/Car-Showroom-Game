@@ -1,2 +1,2 @@
-# car-showroom-game
+# Car-Showroom-Game
 A car showroom game made with C++.
